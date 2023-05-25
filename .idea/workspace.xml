@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9462d82-98cb-4767-bf99-39132605ece0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Age.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DoubleInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -41,7 +40,7 @@
     "onboarding.tips.debug.path": "/Users/veronikaostrovski/IdeaProjects/homework03/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Age">
+  <component name="RunManager" selected="Application.DoubleInt">
     <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Age" />
       <module name="homework03" />
@@ -86,8 +85,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Age" />
         <item itemvalue="Application.DoubleInt" />
+        <item itemvalue="Application.Age" />
         <item itemvalue="Application.Temperature" />
         <item itemvalue="Application.Overflow" />
         <item itemvalue="Application.BIM" />
@@ -124,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685053102551</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task 6 done">
+      <created>1685054386086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685054386086</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +138,7 @@
     <MESSAGE value="task 2 done" />
     <MESSAGE value="task 3 done" />
     <MESSAGE value="task 4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4 done" />
+    <MESSAGE value="task 6 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 6 done" />
   </component>
 </project>
