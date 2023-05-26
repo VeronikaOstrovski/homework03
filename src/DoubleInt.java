@@ -3,7 +3,7 @@ public class DoubleInt {
 
     public static void main(String[] args) {
 
-        double a = 3/5;
+        double a = 3.5;
         int b = (int) a;
 
         System.out.println(a);
