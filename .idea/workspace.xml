@@ -7,9 +7,6 @@
     <list default="true" id="a9462d82-98cb-4767-bf99-39132605ece0" name="Changes" comment="task 5 corrected fractional number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Age.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BIM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BIM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Overflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overflow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +41,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/veronikaostrovski/IdeaProjects/homework03/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Age">
+  <component name="RunManager" selected="Application.Temperature">
     <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Age" />
       <module name="homework03" />
@@ -82,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Age" />
         <item itemvalue="Application.Temperature" />
+        <item itemvalue="Application.Age" />
         <item itemvalue="Application.Overflow" />
         <item itemvalue="Application.BIM" />
         <item itemvalue="Application.Main" />
@@ -141,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685080497892</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed the style of writing names">
+      <created>1685138514665</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685138514665</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +156,7 @@
     <MESSAGE value="task 6 done" />
     <MESSAGE value="task 5 done" />
     <MESSAGE value="task 5 corrected fractional number" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 5 corrected fractional number" />
+    <MESSAGE value="changed the style of writing names" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed the style of writing names" />
   </component>
 </project>
