@@ -6,7 +6,7 @@ public class Overflow {
         int b = 1;
         int c = a + b;
 
-        System.out.println(c = a + b);
+        System.out.println(c);
 
     }
 }

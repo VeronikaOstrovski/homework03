@@ -3,11 +3,11 @@ public class BIM {
 
     public static void main(String[] args) {
 
-        double WEIGHT = 52.0;
-        double HEIGHT = 1.73;
-        double BMI = WEIGHT / (HEIGHT * HEIGHT);
+        double weight = 52.0;
+        double height = 1.73;
+        double bmi = weight / (height * height);
 
-        System.out.println(BMI = WEIGHT / (HEIGHT * HEIGHT));
+        System.out.println(bmi);
 
     }
 }

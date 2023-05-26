@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9462d82-98cb-4767-bf99-39132605ece0" name="Changes" comment="">
+    <list default="true" id="a9462d82-98cb-4767-bf99-39132605ece0" name="Changes" comment="task 5 corrected fractional number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Age.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BIM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BIM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +44,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/veronikaostrovski/IdeaProjects/homework03/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DoubleInt">
+  <component name="RunManager" selected="Application.Age">
     <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Age" />
       <module name="homework03" />
@@ -47,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoubleInt" />
+    <configuration name="BIM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BIM" />
       <module name="homework03" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoubleInt" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Age" />
         <item itemvalue="Application.Temperature" />
         <item itemvalue="Application.Overflow" />
+        <item itemvalue="Application.BIM" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685054743438</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task 5 corrected fractional number">
+      <created>1685080497891</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685080497892</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +151,7 @@
     <MESSAGE value="task 4 done" />
     <MESSAGE value="task 6 done" />
     <MESSAGE value="task 5 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 5 done" />
+    <MESSAGE value="task 5 corrected fractional number" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 5 corrected fractional number" />
   </component>
 </project>
