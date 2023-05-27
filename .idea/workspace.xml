@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9462d82-98cb-4767-bf99-39132605ece0" name="Changes" comment="task 5 corrected fractional number">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Age.java" afterDir="false" />
+    <list default="true" id="a9462d82-98cb-4767-bf99-39132605ece0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Symbols.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/veronikaostrovski/IdeaProjects/homework03/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Age">
+  <component name="RunManager" selected="Application.Symbols">
     <configuration name="Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Age" />
       <module name="homework03" />
@@ -55,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Overflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Overflow" />
       <module name="homework03" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Overflow" />
+    <configuration name="Symbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Symbols" />
       <module name="homework03" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Symbols" />
         <item itemvalue="Application.Age" />
         <item itemvalue="Application.Temperature" />
         <item itemvalue="Application.Overflow" />
         <item itemvalue="Application.BIM" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685139926432</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="changed a style writing names">
+      <created>1685218809002</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685218809002</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +170,7 @@
     <MESSAGE value="task 5 corrected fractional number" />
     <MESSAGE value="changed the style of writing names" />
     <MESSAGE value="made changes at the formula" />
-    <option name="LAST_COMMIT_MESSAGE" value="made changes at the formula" />
+    <MESSAGE value="changed a style writing names" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed a style writing names" />
   </component>
 </project>
