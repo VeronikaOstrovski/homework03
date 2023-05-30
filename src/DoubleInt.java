@@ -3,11 +3,11 @@ public class DoubleInt {
 
     public static void main(String[] args) {
 
-        double a = 3.5;
-        int b = (int) a;
+        double floatingNumber = 3.5;
+        int integerNumber = (int) floatingNumber;
 
-        System.out.println(a);
-        System.out.println(b);
+        System.out.println(floatingNumber);
+        System.out.println(integerNumber);
 
     }
 }
