@@ -3,14 +3,14 @@ public class Age {
 
     public static void main(String[] args) {
 
-        int age1 = 25;
-        int age2 = 18;
+        int joinsAge = 25;
+        int marysAge = 18;
 
-        boolean check1 = age1 > age2;
-        boolean check2 = age1 == age2;
+        boolean isJoinOlder = joinsAge > marysAge;
+        boolean areTheySameAge = joinsAge == marysAge;
 
-        System.out.println(check1);
-        System.out.println(check2);
+        System.out.println(isJoinOlder);
+        System.out.println(areTheySameAge);
 
     }
 }
